@@ -1,0 +1,72 @@
+body{
+  text-align: center;
+}
+
+h1{
+  color: #2d508f;
+}
+
+h2{
+  padding-left: 10px;
+  
+  text-align: left;
+}
+
+header{
+  margin-bottom: 20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  
+  text-align: left;
+}
+
+main{
+  font-size: 18px;
+  line-height: 26px;
+}
+
+main h2{
+  color: #2d508f;
+  
+  border-bottom: 1px solid #eaecef;
+}
+
+ul {
+  text-align: left;
+}
+
+p{
+  padding-left: 10px;
+
+  text-align: left;
+  }
+
+li{
+  padding-bottom: 10px;
+}
+
+.main-block{
+  box-sizing: border-box;
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  border: 3px solid #eaecef;
+  border-radius: 5px;
+}
+
+.wrapper{
+  display: inline-block;
+  width:77%;
+  
+  text-align:center;
+}
+
+.myfoto{
+  border-radius: 20px; 
+}
+
+.myfoto-wrapper{
+  display: inline-block;
+  vertical-align: top;
+}
