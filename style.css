@@ -2,9 +2,47 @@ body{
   text-align: center;
 }
 
+h1, h2{
+  text-align: left;
+  padding-left: 10px;
+}
+
+header{
+  margin-bottom: 20px;
+}
+
+main{
+  font-size: 16px;
+  line-height: 26px;
+}
+
+main h2{
+  border-bottom: 1px solid #eaecef;
+  color: #2d508f;
+}
+
+ul {
+  text-align: left;
+}
+
+p{
+  text-align: left;
+  padding-left: 10px;
+}
+
+li{
+  padding-bottom: 10px;
+}
+
 .main-block{
   max-width: 1024px;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
+  border: 3px solid #eaecef;
+  border-radius: 5px;
+}
+
+.myfoto{
+  border-radius: 20px; 
 }
